@@ -1,4 +1,4 @@
-const IP="176.57.171.97";
+const IP="flosmprevived.g-portal.works";
 const toast=document.getElementById("toast");
 document.querySelectorAll(".copy-ip").forEach(btn=>{
   btn.addEventListener("click",async()=>{
